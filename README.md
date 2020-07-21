@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub  👋
+
+My name is Tiago Leite.
 
 <!--
 **tiagosleite/tiagosleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
